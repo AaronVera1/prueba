@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form{
+    width: 300px;
+    background-color: rgb(2, 2, 105);
+    padding: 30px;
+    margin: auto;
+    margin-top: 80px;
+}
